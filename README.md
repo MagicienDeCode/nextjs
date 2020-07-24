@@ -6,3 +6,7 @@ v10.15.2
 
 npm -v
 6.14.6
+
+```
+npm init next-app nextjs-typescript --example "https://github.com/MagicienDeCode/nextjs/tree/nextjs-typescript-start"
+```
